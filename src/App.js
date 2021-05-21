@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Hi Rohith V!! So you are running with docker-compose now
+          Hi Rohith V!! So you are running with docker-compose now and Travis CI setup
         </p>
         <a
           className="App-link"
